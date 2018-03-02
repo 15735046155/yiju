@@ -357,7 +357,7 @@
 	width: 985px;
 	height: 80px;
 	float: left;
-	border-bottom: 2px dotted #5b5b5b;
+	border-bottom: 2px dashed #5b5b5b;
 }
 .pinpai_top_title img{
 	float: left;

@@ -251,6 +251,7 @@
 	color: #666;
 }
 .tuandui_bottom{
+	width: 1366px;
 	height: 519px;
 	margin:0 auto;
 	background-image: url('../img/tdbeijing.png');
@@ -308,7 +309,8 @@
 .tuandui_bottom_xia{
 	position: absolute;
 	left: 75px;
-	bottom: 10px;	
+	bottom: -20px;	
+
 }
 .tuandui_bottom_item{
 	color: #cbcbcb;
@@ -510,4 +512,16 @@
 	text-align: center;
 	color: #7b7b7b;
 	padding-top: 10px;
+}
+.tuandui_bottom_xia_datu{
+	float: right;
+	background-image: url('../img/renbejing_03.png');
+	width: 349px;
+	height: 478px;
+	position: relative;
+}
+.tuandui_bottom_xia_datu img{
+	position: absolute;
+	top: -170px;
+	right:-47px;
 }
